@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/raulbelando" target="blank"><img src="https://img.shields.io/twitter/follow/raulbelando?logo=twitter&style=for-the-badge" alt="raulbelando" /></a> </p>
 
-- 🔭 I’m currently working at [Fripozo](https://www.fripozo.com)
-
 - 🌱 I’m currently learning **everything related to AI, Cyber and DFIR**
 
 - 💬 Ask me about **something you need to know about technology**
